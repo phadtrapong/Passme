@@ -1,6 +1,6 @@
 # passme
 
-A new Flutter project.
+Password manager app using flutter
 
 ## Getting Started
 
